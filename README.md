@@ -1,4 +1,8 @@
-# post-covid-gastrointestinal
+# (CLONE!) post-covid-cvd-methods-redux
+
+This is a clone of the post-covid-gastrointestinal codebase being used to study variable selection and confounder selection methods in practice.  This is done as part od Emma Tarmey's work with Kate Tilling, Jonathan Sterne and Rhian Daniels.  The below gives the README of the initial repository.
+
+
 
 This is the code and configuration for post-covid-gastrointestinal.
 
