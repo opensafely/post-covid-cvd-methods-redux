@@ -6,9 +6,9 @@ This is a clone of the post-covid-gastrointestinal codebase being used to study 
 
 This is the code and configuration for post-covid-gastrointestinal.
 
-You can run this project via [Gitpod](https://gitpod.io) in a web browser by clicking on this badge: [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/opensafely/post-covid-gastrointestinal)
+You can run this project via [Gitpod](https://gitpod.io) in a web browser by clicking on this badge: [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/opensafely/post-covid-cvd-methods-redux)
 
-[View on OpenSAFELY](https://jobs.opensafely.org/university-of-bristol/investigating-events-following-sars-cov-2-infection/)
+[View on OpenSAFELY](https://jobs.opensafely.org/investigating-events-following-sars-cov-2-infection/post-covid-cvd-methods-redux/)
 
 Details of the purpose and any published outputs from this project can be found at the link above.
 
